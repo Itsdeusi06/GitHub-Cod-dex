@@ -1,0 +1,8 @@
+print("hi")
+print("PPPP   DDDD")
+print("P   P  D   D")
+print("P   P  D   D")
+print("PPPP   D   D")
+print("P      D   D")
+print("P      D   D")
+print("P      DDDD")
