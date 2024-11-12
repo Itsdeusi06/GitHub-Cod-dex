@@ -4,7 +4,7 @@ Description:
 This repository serves the purpose of completing the GitHub Codédex course and hosting files related to "The Legend of Python" course.
 
 Repository Status:
-Currently, the GitHub course is in progress. Once completed, the project will be fully developed.
+The course is finished and the project is fully developed.
 
 Usage Guide:
 To utilize the programs from "The Legend of Python" course:
